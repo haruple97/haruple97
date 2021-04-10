@@ -47,6 +47,14 @@
 - 포토샵 13년 경력, 디자인, 영상편집 툴 활용가능. (PhotoShop, LightLoom, PremierePro, Luminar4)
 
 
+> 활용 언어
+- JAVA
+- XML
+- Python
+- C
+
+
+
 ### 문의
 
   - 메일 : haruple97@naver.com
