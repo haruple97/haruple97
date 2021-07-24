@@ -1,4 +1,4 @@
-:blush:Hi There! I am an Android app developer.:bulb:<br/>
+:blush:Hi There! I am an **Android app developer.**:bulb:<br/>
 I aims to communicate with people and develop them.:sunglasses:
 
 I enjoy developing, studying electronics, assembling computers, and taking pictures.:camera:<br/>
